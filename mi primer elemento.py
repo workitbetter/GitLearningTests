@@ -1,2 +1,2 @@
 a = int(input("Escribe tu numero favorito!!!"))
-print("Pero que numero de mierda.")
+print("Pero que numero piola.")
